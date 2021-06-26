@@ -1,0 +1,1722 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "7733154892301707980",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-24T00:08:00-07:00",
+      "updated": "2021-06-24T00:08:59-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-adam-chaser.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7733154892301707980",
+      "title": "The Adam Chaser",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7733154892301707980/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTE4NTM5MzU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "785704047321360397",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-24T00:02:00-07:00",
+      "updated": "2021-06-24T00:02:55-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/at-last-six-days-in-life-of-ex-teacher.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/785704047321360397",
+      "title": "At Last: Six Days in the Life of an Ex-Teacher",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/785704047321360397/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTE4MTc1OTA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1936564842932749668",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T23:46:00-07:00",
+      "updated": "2021-06-23T23:46:42-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-beloved-pawn-everybodys-magazine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1936564842932749668",
+      "title": "The Beloved Pawn (Everybody's Magazine 1922-23)",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1936564842932749668/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTE3MjAyOTU5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6159095463337846291",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T22:48:00-07:00",
+      "updated": "2021-06-23T22:48:29-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/beyond-rim.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6159095463337846291",
+      "title": "Beyond the Rim",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6159095463337846291/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTEzNzA5ODg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5857166879295371640",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T22:16:00-07:00",
+      "updated": "2021-06-23T22:16:07-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-black-jarl.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5857166879295371640",
+      "title": "The Black Jarl",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5857166879295371640/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTExNzY3NjA3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3440755860644561667",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T22:10:00-07:00",
+      "updated": "2021-06-23T22:10:57-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/black-white.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3440755860644561667",
+      "title": "Black White",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3440755860644561667/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTExNDU3NDU5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "906486346566117794",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T22:04:00-07:00",
+      "updated": "2021-06-23T22:04:40-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-blue-envelop-st-nicholas-1922.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/906486346566117794",
+      "title": "The Blue Envelop, St Nicholas, 1922",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/906486346566117794/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTExMDgwNDQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5184081224999321519",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T20:40:00-07:00",
+      "updated": "2021-06-23T20:40:31-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/born-to-be-hanged-but.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5184081224999321519",
+      "title": "Born to be Hanged, But",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5184081224999321519/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTA2MDMxMTMzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1995644891060671791",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T20:34:00-07:00",
+      "updated": "2021-06-23T20:34:03-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/brazenhead-in-milan.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1995644891060671791",
+      "title": "Brazenhead in Milan",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1995644891060671791/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTA1NjQzNzA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1043335703769833748",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T20:18:00-07:00",
+      "updated": "2021-06-23T20:18:37-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/breed-of-wolf.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1043335703769833748",
+      "title": "Breed of the Wolf",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1043335703769833748/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NTA0NzE3NTQ0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8652759430662707570",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:19:00-07:00",
+      "updated": "2021-06-23T12:19:24-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-career-of-joan-carthewchapter-6.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8652759430662707570",
+      "title": "The Career of Joan Carthew/Chapter 6",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8652759430662707570/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc1OTY0MTI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8090144134563323960",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:16:00-07:00",
+      "updated": "2021-06-23T12:16:38-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-castlecourt-diamond-case-novel.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8090144134563323960",
+      "title": "The Castlecourt Diamond Case, Novel Magazine, 1906",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8090144134563323960/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc1Nzk4Mjg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1620915935873527426",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:14:00-07:00",
+      "updated": "2021-06-23T12:14:22-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-dancing-girl-of-gades.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1620915935873527426",
+      "title": "The Dancing Girl of Gades",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1620915935873527426/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc1NjYyMjE4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6553064094655473779",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:08:00-07:00",
+      "updated": "2021-06-23T12:08:22-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-dead-line.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6553064094655473779",
+      "title": "The Dead-Line",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6553064094655473779/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc1MzAyMDYzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5520821367421782900",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:06:00-07:00",
+      "updated": "2021-06-23T12:06:40-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-derelict-bottome-century-magazine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5520821367421782900",
+      "title": "The Derelict (Bottome, Century Magazine, 1917)",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5520821367421782900/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc1MjAwNzE3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6910778133947690355",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T12:00:00-07:00",
+      "updated": "2021-06-23T12:00:40-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/desert-justice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6910778133947690355",
+      "title": "Desert Justice",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6910778133947690355/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc0ODQwMTgyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1470509692522203598",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T11:58:00-07:00",
+      "updated": "2021-06-23T11:58:45-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/dicky.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1470509692522203598",
+      "title": "Dicky",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1470509692522203598/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc0NzI1MzAyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3554924926294503049",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T11:56:00-07:00",
+      "updated": "2021-06-23T11:56:13-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/a-discord-in-avalon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3554924926294503049",
+      "title": "A Discord in Avalon",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3554924926294503049/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc0NTczMTcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1935158935567355506",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T11:51:00-07:00",
+      "updated": "2021-06-23T11:51:50-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/doctor-nikola-windsor-magazine-1896.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1935158935567355506",
+      "title": "Doctor Nikola (Windsor Magazine, 1896)",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1935158935567355506/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDc0MzEwMDc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3216077284592920585",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:50:00-07:00",
+      "updated": "2021-06-23T08:50:12-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/doom-canyon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3216077284592920585",
+      "title": "Doom Canyon",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3216077284592920585/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYzNDEyMTI3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "738075341262270751",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:38:00-07:00",
+      "updated": "2021-06-23T08:38:22-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/doubloons.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/738075341262270751",
+      "title": "Doubloons",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/738075341262270751/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYyNzAyNjg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "457375539868031088",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:29:00-07:00",
+      "updated": "2021-06-23T08:29:56-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-dragons-claw.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/457375539868031088",
+      "title": "The Dragon's Claw",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/457375539868031088/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYyMTk2OTQ2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "19317197134371459",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:24:00-07:00",
+      "updated": "2021-06-23T08:24:30-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-fire-flower.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/19317197134371459",
+      "title": "The Fire Flower",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/19317197134371459/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYxODcwMTU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3933298544631541710",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:17:00-07:00",
+      "updated": "2021-06-23T08:17:13-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/fur-pirates.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3933298544631541710",
+      "title": "Fur Pirates",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3933298544631541710/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYxNDMzNjc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2520394426214443028",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:04:00-07:00",
+      "updated": "2021-06-23T08:04:37-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-gallowstree-mystery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2520394426214443028",
+      "title": "The Gallowstree Mystery",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2520394426214443028/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYwNjc3NTEzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7909648011252337427",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T08:03:00-07:00",
+      "updated": "2021-06-23T08:03:02-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-glyphs.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7909648011252337427",
+      "title": "The Glyphs",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7909648011252337427/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYwNTgyNjQ0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1241138339513512044",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T07:57:00-07:00",
+      "updated": "2021-06-23T07:57:21-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-golden-mocassins.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1241138339513512044",
+      "title": "The Golden Mocassins",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1241138339513512044/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDYwMjQxMzEzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5173306842582373309",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T07:46:00-07:00",
+      "updated": "2021-06-23T07:46:11-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-grand-cham-lamb-adventure-magazine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5173306842582373309",
+      "title": "The Grand Cham (Lamb, Adventure magazine)",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5173306842582373309/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDU5NTcxNTA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5687648981779007094",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T07:10:00-07:00",
+      "updated": "2021-06-23T07:10:33-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-heart-of-mystery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5687648981779007094",
+      "title": "The Heart of a Mystery",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5687648981779007094/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDU3NDMzNDkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7241511218696770498",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T07:02:00-07:00",
+      "updated": "2021-06-23T07:02:25-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/helenas-path.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7241511218696770498",
+      "title": "Helena's Path",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7241511218696770498/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDU2OTQ1ODg5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6671852183576284149",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T06:52:00-07:00",
+      "updated": "2021-06-23T06:52:51-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/jim-gormans-brand.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6671852183576284149",
+      "title": "Jim Gorman's Brand",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6671852183576284149/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDU2MzcxOTI2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6159336248914672052",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T05:05:00-07:00",
+      "updated": "2021-06-23T05:05:20-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-king-and-captain-oshea.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6159336248914672052",
+      "title": "The King and Captain O'Shea",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6159336248914672052/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ5OTIwMjMwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4816073473937710099",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:59:00-07:00",
+      "updated": "2021-06-23T04:59:50-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-line-of-least-resistance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4816073473937710099",
+      "title": "The Line of Least Resistance",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4816073473937710099/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ5NTkwMzM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7658010100602275389",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:53:00-07:00",
+      "updated": "2021-06-23T04:53:58-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-lone-hand-pain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7658010100602275389",
+      "title": "The Lone Hand (Pain)",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7658010100602275389/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ5MjM4MzE1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3507652771694171914",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:45:00-07:00",
+      "updated": "2021-06-23T04:45:17-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-making-of-morning-star.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3507652771694171914",
+      "title": "The Making of the Morning Star",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3507652771694171914/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ4NzE3MTgyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6687055908807297727",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:16:00-07:00",
+      "updated": "2021-06-23T04:16:21-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-marriage-of-meldrum-strange.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6687055908807297727",
+      "title": "The Marriage of Meldrum Strange",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6687055908807297727/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ2OTgxNTEzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2134270915744054250",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:07:00-07:00",
+      "updated": "2021-06-23T04:07:27-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/nastasia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2134270915744054250",
+      "title": "Nastasia",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2134270915744054250/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ2NDQ3Njc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5379590215688328117",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T04:04:00-07:00",
+      "updated": "2021-06-23T04:04:49-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/no-mans-island.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5379590215688328117",
+      "title": "No Man's Island",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5379590215688328117/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ2Mjg5NjY1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3243527157772152283",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T03:59:00-07:00",
+      "updated": "2021-06-23T03:59:16-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/number-six-and-borgia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3243527157772152283",
+      "title": "Number Six and the Borgia",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3243527157772152283/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ1OTU2MDMxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7360081607145387714",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T03:53:00-07:00",
+      "updated": "2021-06-23T03:53:01-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/a-princess-of-balkans.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7360081607145387714",
+      "title": "A Princess of the Balkans",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7360081607145387714/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQ1NTgxNzcwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7717460917441546110",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T02:27:00-07:00",
+      "updated": "2021-06-23T02:27:48-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/prisoners-of-war.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7717460917441546110",
+      "title": "Prisoners of War",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7717460917441546110/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQwNDY4MjA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6693682811382939707",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T02:22:00-07:00",
+      "updated": "2021-06-23T02:22:48-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-red-pirogue.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6693682811382939707",
+      "title": "The Red Pirogue",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6693682811382939707/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDQwMTY4MjQwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1656585325499080177",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T02:18:00-07:00",
+      "updated": "2021-06-23T02:18:21-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/rogue-for-day.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1656585325499080177",
+      "title": "Rogue for a Day",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1656585325499080177/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDM5OTAxOTEyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5075009790836204773",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T02:14:00-07:00",
+      "updated": "2021-06-23T02:14:07-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-seventeen-thieves-of-el-kalil.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5075009790836204773",
+      "title": "The Seventeen Thieves of El-Kalil",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5075009790836204773/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDM5NjQ3MTA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8019881626916003254",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T00:36:00-07:00",
+      "updated": "2021-06-23T00:36:24-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-shaman.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8019881626916003254",
+      "title": "The Shaman",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8019881626916003254/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDMzNzg0MDc3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6538069753998590497",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T00:24:00-07:00",
+      "updated": "2021-06-23T00:24:55-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-ship-of-shadows.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6538069753998590497",
+      "title": "The Ship of Shadows",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6538069753998590497/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDMzMDk1MTA3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5818678214001550903",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T00:18:00-07:00",
+      "updated": "2021-06-23T00:18:54-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-slipper-point-mystery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5818678214001550903",
+      "title": "The Slipper Point Mystery",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5818678214001550903/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDMyNzM0MzM2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1009136220677118580",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-23T00:13:00-07:00",
+      "updated": "2021-06-23T00:13:11-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-snow-driver.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1009136220677118580",
+      "title": "The Snow Driver",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1009136220677118580/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0NDMyMzkxNjE5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2951960227765697585",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T08:10:00-07:00",
+      "updated": "2021-06-22T08:10:01-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/somewhere-in-caribbean.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2951960227765697585",
+      "title": "Somewhere in the Caribbean",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2951960227765697585/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mzc0NjAxNDI0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3057707879668024578",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T08:00:00-07:00",
+      "updated": "2021-06-22T08:00:10-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/south-west-and-north.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3057707879668024578",
+      "title": "South, West and North",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/3057707879668024578/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mzc0MDEwMjY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4778095814422841525",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T07:23:00-07:00",
+      "updated": "2021-06-22T07:23:16-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-speculations-of-jack-steele.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4778095814422841525",
+      "title": "The Speculations of Jack Steele",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4778095814422841525/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzcxNzk2NzIwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7501623582153775243",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T07:18:00-07:00",
+      "updated": "2021-06-22T07:18:52-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-spook-hills-mystery.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7501623582153775243",
+      "title": "The Spook Hills Mystery",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/7501623582153775243/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzcxNTMyOTUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8771045215529485192",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T06:51:00-07:00",
+      "updated": "2021-06-22T06:51:27-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-stolen-war-secret.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8771045215529485192",
+      "title": "The Stolen War Secret",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/8771045215529485192/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzY5ODg3OTAyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6418638754729432614",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T06:28:00-07:00",
+      "updated": "2021-06-22T06:40:48-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/stories-of-sanctuary-club.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6418638754729432614",
+      "title": "Stories of the Sanctuary Club",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6418638754729432614/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzY5MjQ4NjgzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6276743296464150451",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T06:15:00-07:00",
+      "updated": "2021-06-22T06:15:41-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-temple-of-ten.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6276743296464150451",
+      "title": "The Temple of the Ten",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/6276743296464150451/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzY3NzQxNDY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4097942918694625990",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T06:01:00-07:00",
+      "updated": "2021-06-22T06:01:39-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-four-invisibles.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4097942918694625990",
+      "title": "The Four Invisibles",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4097942918694625990/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzY2ODk5NDUyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4124460581322315349",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T05:54:00-07:00",
+      "updated": "2021-06-22T05:54:43-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-thirty-gang.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4124460581322315349",
+      "title": "The Thirty Gang",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4124460581322315349/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzY2NDgzMzAxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4270371349309153280",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T03:38:00-07:00",
+      "updated": "2021-06-22T03:38:17-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-trail-of-dead.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4270371349309153280",
+      "title": "The Trail of the Dead",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4270371349309153280/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzU4Mjk3NDkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "137439493157815334",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T03:33:00-07:00",
+      "updated": "2021-06-22T03:33:42-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-trouble-at-tres-pinos.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/137439493157815334",
+      "title": "The Trouble at Tres Pinos",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/137439493157815334/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzU4MDIyMDM1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4590453946262226051",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T03:30:00-07:00",
+      "updated": "2021-06-22T03:30:18-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/tupahn-thunderstorm.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4590453946262226051",
+      "title": "Tupahn--the Thunderstorm",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4590453946262226051/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzU3ODE4NTM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2814455068010253020",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T02:47:00-07:00",
+      "updated": "2021-06-22T02:47:04-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/under-his-shirt.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2814455068010253020",
+      "title": "Under His Shirt",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2814455068010253020/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzU1MjI0NDM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1367264546402746840",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-22T02:37:00-07:00",
+      "updated": "2021-06-22T02:37:48-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-visionists.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1367264546402746840",
+      "title": "The Visionists",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/1367264546402746840/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MzU0NjY4NTU5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4973688876317736017",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-21T08:24:00-07:00",
+      "updated": "2021-06-21T08:24:25-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-web-of-sun-adventure-magazine-1922.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4973688876317736017",
+      "title": "The Web of the Sun (Adventure Magazine, 1922)/",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4973688876317736017/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mjg5MDY1OTkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5151802466096883664",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-21T07:44:00-07:00",
+      "updated": "2021-06-21T07:44:56-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/wild-norene.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5151802466096883664",
+      "title": "Wild Norene",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/5151802466096883664/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mjg2Njk2MjA4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2135086159497526028",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-21T07:39:00-07:00",
+      "updated": "2021-06-21T07:39:59-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/the-witch-of-aleppo.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2135086159497526028",
+      "title": "The Witch of Aleppo",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/2135086159497526028/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mjg2Mzk5NzUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4245689462414025500",
+      "blog": {
+        "id": "2483591279218288940"
+      },
+      "published": "2021-06-21T07:03:00-07:00",
+      "updated": "2021-06-21T07:03:07-07:00",
+      "url": "http://novelperiodical.blogspot.com/2021/06/yahoya.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4245689462414025500",
+      "title": "Yahoya",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2483591279218288940/posts/4245689462414025500/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0Mjg0MTg3NjgxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wNi0yNFQwNzowODo1OS4zNTRa\""
+}
